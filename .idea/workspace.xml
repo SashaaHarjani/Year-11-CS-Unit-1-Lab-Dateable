@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="884e2e27-e9d7-4858-844f-649a89c8e59a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="884e2e27-e9d7-4858-844f-649a89c8e59a" name="Changes" comment="Lab 1 completed! :)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dateable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dateable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +69,19 @@
       <option name="presentableId" value="Default" />
       <updated>1675225389607</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lab 1 completed! :)">
+      <option name="closed" value="true" />
+      <created>1740109866250</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740109866250</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab 1 completed! :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 1 completed! :)" />
   </component>
 </project>
